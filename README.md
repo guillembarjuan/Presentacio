@@ -146,8 +146,9 @@ Durant tots els projectes he aplicat una metodologia àgil basada en:
 
 ## 📸 Captures i referències
 
-> *Aquí anirien captures del tauler Kanban, del diagrama de Gantt, de l’estructura de carpetes dels repositoris, i de pantalles significatives de cada projecte.*  
-*(Pots inserir-les durant la defensa directament des del repositori)*
+![Kanban](./kanban.png)
+
+![Diagrama](./diagrama-gantt.png)
 
 ---
 
