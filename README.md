@@ -146,9 +146,9 @@ Durant tots els projectes he aplicat una metodologia àgil basada en:
 
 ## 📸 Captures i referències
 
-![Kanban](./kanban.png)
+![Kanban](img/kanban.png)
 
-![Diagrama](./diagrama-gantt.png)
+![Diagrama](img/diagrama-gantt.png)
 
 ---
 
